@@ -1,0 +1,46 @@
+.vl {
+    border-left: 2px solid black;
+    height: 300px;
+}
+
+.destinations-wrapper{
+    position: absolute;
+    overflow-y: auto;
+    max-height: 600px;
+    padding: 10px;
+    padding-bottom: 15px;
+}
+
+.card-destination{
+    -webkit-box-shadow: 2px 6px 14px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 6px 14px -4px rgba(0,0,0,0.75);
+    box-shadow: 2px 6px 14px -4px rgba(0,0,0,0.75);
+    margin-bottom: 15px;
+}
+
+.bg-paradise{
+    background-image: url('assets/images/paradise.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.destination-hour{
+    background-color: blueviolet;
+    color: white;
+}
+
+.bg-purple{
+    background-color: purple;
+}
+
+.bg-dark-gray{
+    background-color: purple;
+    color: white;
+}
+textarea {
+    resize: none;
+}
+h1{
+    color: purple;
+}
